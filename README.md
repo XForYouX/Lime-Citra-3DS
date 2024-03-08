@@ -13,7 +13,11 @@ Emulation never dies! it changes and moves forward!
 It is written in C++ with portability in mind and builds are actively maintained for Windows, Linux, Android and macOS.
 </h4>
 
-## Release Builds
+## Release Build ( Official )
+
+(https://github.com/RyzenDew/Lime-3DS-Emulator/releases)
+
+## Release Builds ( Alternative )
 
 (https://github.com/XForYouX/Lime-Citra-3DS/releases)
 
