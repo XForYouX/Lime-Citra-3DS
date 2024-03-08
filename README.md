@@ -23,4 +23,4 @@ Just subcribe to my Youtube https://www.youtube.com/c/MattsCreative
 
 ## License
 
-Lime is licensed under the GPLv2 (or any later version). Refer to the [LICENSE.txt](https://github.com/citra-emu/citra/blob/master/license.txt) file.
+Lime is licensed under the GPLv2 (or any later version). Refer to the [LICENSE.txt](https://github.com/XForYouX/Lime-Citra-3DS/blob/main/LICENSE) file.
