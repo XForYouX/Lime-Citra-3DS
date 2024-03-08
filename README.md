@@ -15,11 +15,7 @@ It is written in C++ with portability in mind and builds are actively maintained
 
 ## Release Builds
 
-https://github.com/RyzenDew/Lime-3DS-Emulator/releases
-
-## support me
-
-Just subcribe to my Youtube https://www.youtube.com/c/MattsCreative 
+(https://github.com/XForYouX/Lime-Citra-3DS/releases)
 
 ## License
 
